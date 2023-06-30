@@ -310,6 +310,7 @@ En este módulo, has obtenido información sobre estas aptitudes:
 
 Intenta realizar los ejercicios descritos en este documento.
 
+
 ---
 
 Curso Propedútico de Python para fastrack de python
